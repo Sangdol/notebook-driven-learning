@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 .local
 Playground.ipynb
+__pycache__
