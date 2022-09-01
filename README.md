@@ -1,3 +1,14 @@
+How to run
+===
+
+### Basic
+
+```sh
+  jupyter notebook
+```
+
+### Using Docker
+
 Use [Jupyter Notebook Python, Scala, R, Spark, Mesos Stack](https://github.com/jupyter/docker-stacks/tree/master/all-spark-notebook) to run the notebooks.
 
 ```sh
